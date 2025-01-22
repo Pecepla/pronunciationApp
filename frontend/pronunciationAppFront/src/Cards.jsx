@@ -19,10 +19,10 @@ export default function WordList() {
 
   return (
     <>
-    <h4>Words List</h4>
+    <h1>Words List</h1>
       {words.map((word) => (
         <p key={word.id}>
-          {word.id}: {word.word} {word.pronunciation}
+          {word.id}: <b>{word.word}</b> {word.pronunciation}
         </p>
       ))}
     </>
