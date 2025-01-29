@@ -1,4 +1,4 @@
-import BcnMap from "./BcnMap";
+import BcnMap from "../components/BcnMap";
 
 export default function About() {
   return (
