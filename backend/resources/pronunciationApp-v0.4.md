@@ -1,12 +1,12 @@
 # PronunciationApp Backend v0.4
 
-## One ToOne
-
-Reference linkx
+**Reference links**:
 
 - [pronunciationApp model· GitHub](https://github.com/AlbertProfe/pronunciationApp/tree/backend-spring-boot/backend/resources/jpa/model)
-
 - [pronunciationApp-v0.3.md GitHub](https://github.com/AlbertProfe/pronunciationApp/blob/backend-spring-boot/backend/resources/pronunciationApp-v0.3.md)
+- [userBorrowBook sanbox repo](https://github.com/AlbertProfe/userBorrowBook)
+
+## One-To-One
 
 ```java
 @Entity
@@ -113,7 +113,7 @@ If we remove the `gameProgress` field from `AppUser`, it becomes unidirectional:
 
 - Bidirectional relationships offer more flexibility but require careful management to maintain consistency.
 
-## ManyToMany
+## Many-To-Many
 
 In JPA (Java Persistence API) with Spring Boot, many-to-many relationships between entities can be implemented in **two main ways**:
 
