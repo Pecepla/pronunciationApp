@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6bd8c2b8-1c6f-42e3-9d5b-6ab39a24ca94" name="Changes" comment="PRA#04_SpringBoot-PedroCecila-JPARelationships">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/PronunciationAppBackApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/controller/HealthController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/controller/StageWordController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/controller/WordController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/model/AppUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/model/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/model/GameProgress.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/model/Lavel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/model/Pronunciation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/model/Stage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/model/StageWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/model/Word.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/repository/AppUserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/repository/CategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/repository/GameProgressRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/repository/LavelRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/repository/PronunciationRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/repository/StageRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/repository/StageWordRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/repository/WordRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/service/AppUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/service/CategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/service/GameProgressService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/service/LavelService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/service/PronunciationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/service/StageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/service/StageWordService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/pronunciationAppBack/service/WordService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/dev/pronunciationAppBack/PronunciationAppBackApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/dev/pronunciationAppBack/PronunciationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/dev/pronunciationAppBack/StageTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Pecepla"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Pecepla/pronunciationApp.git",
+    "accountId": "a0bf15c0-8f11-4973-a520-ab841ce16bbe"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2tcdQ7MnUAAtB1oEjxFCs4ArdTF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.PronunciationAppBackApplication.executor": "Run",
+    "JUnit.PronunciationTest.executor": "Run",
+    "JUnit.StageTest.AssignTestStage.executor": "Run",
+    "JUnit.StageTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="PronunciationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pronunciationAppBack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.pronunciationAppBack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.pronunciationAppBack" />
+      <option name="MAIN_CLASS_NAME" value="dev.pronunciationAppBack.PronunciationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pronunciationAppBack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.pronunciationAppBack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.pronunciationAppBack" />
+      <option name="MAIN_CLASS_NAME" value="dev.pronunciationAppBack.StageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StageTest.AssignTestStage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pronunciationAppBack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.pronunciationAppBack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.pronunciationAppBack" />
+      <option name="MAIN_CLASS_NAME" value="dev.pronunciationAppBack.StageTest" />
+      <option name="METHOD_NAME" value="AssignTestStage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StageTest.AssignTestStage" />
+        <item itemvalue="JUnit.StageTest" />
+        <item itemvalue="JUnit.PronunciationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bd8c2b8-1c6f-42e3-9d5b-6ab39a24ca94" name="Changes" comment="" />
+      <created>1740655281121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740655281121</updated>
+    </task>
+    <task id="LOCAL-00001" summary="PRA#04_SpringBoot-PedroCecila-JPARelationships">
+      <option name="closed" value="true" />
+      <created>1741509110191</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741509110191</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PRA#04_SpringBoot-PedroCecila-JPARelationships" />
+    <option name="LAST_COMMIT_MESSAGE" value="PRA#04_SpringBoot-PedroCecila-JPARelationships" />
+  </component>
+</project>
